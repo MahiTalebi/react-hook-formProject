@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hook-formProject/static/css/main.917a9565.css",
+    "main.js": "/react-hook-formProject/static/js/main.e39aa3c0.js",
+    "index.html": "/react-hook-formProject/index.html",
+    "main.917a9565.css.map": "/react-hook-formProject/static/css/main.917a9565.css.map",
+    "main.e39aa3c0.js.map": "/react-hook-formProject/static/js/main.e39aa3c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.917a9565.css",
+    "static/js/main.e39aa3c0.js"
+  ]
+}

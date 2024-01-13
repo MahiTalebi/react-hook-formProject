@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.917a9565.css","mappings":"AAAA,KAEE,kBAAmB,CADnB,YAAa,CAEb,qBACF,CACA,OAEE,WAAY,CADZ,YAEF","sources":["App.css"],"sourcesContent":[".App {\n  display: flex;\n  align-items: center;\n  flex-direction: column;\n}\n.input {\n  padding: 10px;\n  margin: 10px;\n}\n"],"names":[],"sourceRoot":""}
